@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text.RegularExpressions;
+using static System.Console;
 
 namespace TestDebuggingJuly2018
 {
@@ -7,16 +8,18 @@ namespace TestDebuggingJuly2018
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Please enter a valid zip code: ");
-            string input = Console.ReadLine();
+            WriteLine("Please enter a valid zip code: ");
+            string input = ReadLine();
 
-            if (Regex.IsMatch(@"^\d{5}$", input))
+            if (Regex.IsMatch(@"^\d{5}$", input)) // <-- incorrect format the input should be first and pattern second
+            if (Regex.IsMatch(input, @"^\d{5}$")) // stepped over into this //set as breakpoint
+                
             {
-                Console.WriteLine("Valid input");
+                WriteLine("Valid input");
             }
             else
             {
-                Console.WriteLine("Input not valid!");
+                WriteLine("Input not valid!");
             }       
         }
     }

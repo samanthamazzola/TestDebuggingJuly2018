@@ -1,0 +1,6 @@
+/Users/samanthamazzola/Projects/TestDebuggingJuly2018/TestDebuggingJuly2018/bin/Debug/TestDebuggingJuly2018.exe
+/Users/samanthamazzola/Projects/TestDebuggingJuly2018/TestDebuggingJuly2018/bin/Debug/TestDebuggingJuly2018.pdb
+/Users/samanthamazzola/Projects/TestDebuggingJuly2018/TestDebuggingJuly2018/obj/x86/Debug/TestDebuggingJuly2018.csprojResolveAssemblyReference.cache
+/Users/samanthamazzola/Projects/TestDebuggingJuly2018/TestDebuggingJuly2018/obj/x86/Debug/TestDebuggingJuly2018.csproj.CoreCompileInputs.cache
+/Users/samanthamazzola/Projects/TestDebuggingJuly2018/TestDebuggingJuly2018/obj/x86/Debug/TestDebuggingJuly2018.exe
+/Users/samanthamazzola/Projects/TestDebuggingJuly2018/TestDebuggingJuly2018/obj/x86/Debug/TestDebuggingJuly2018.pdb
