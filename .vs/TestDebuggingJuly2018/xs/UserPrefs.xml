@@ -1,14 +1,37 @@
 ﻿<Properties StartupConfiguration="{D96DAF01-6F73-457F-B45B-5FEB0972A35A}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="TestDebuggingJuly2018/Program.cs">
     <Files>
-      <File FileName="TestDebuggingJuly2018/Program.cs" Line="1" Column="1" />
+      <File FileName="TestDebuggingJuly2018/Program.cs" Line="79" Column="50" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestDebuggingJuly2018" expanded="True">
+            <Node name="TestDebuggingJuly2018" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="TestDebuggingJuly2018" expanded="True" selected="True">
+            <Node name="TestDebuggingJuly2018" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/samanthamazzola/Projects/TestDebuggingJuly2018/TestDebuggingJuly2018/Program.cs" relfile="TestDebuggingJuly2018/Program.cs" line="15" column="12" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TestDebuggingJuly2018 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TestDebuggingJuly2018 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
